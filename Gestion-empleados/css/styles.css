@@ -1,0 +1,14 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h2 {
+    color: #007bff;
+}
+
+#employeeDetails {
+    background-color: #fff;
+    padding: 15px;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+}
